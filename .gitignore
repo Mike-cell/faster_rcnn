@@ -6,4 +6,4 @@
 /image
 /.vscode
 /__pycache__
-/
+/backbone/mobilenet_v2-b0353104.pth
